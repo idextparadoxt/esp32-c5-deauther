@@ -94,8 +94,8 @@ The firmware includes:
 - Support for CC1101 module, signal reading, raw signal reading, emulation of saved signals, frequency analyzer, spectrum analyzer supports signal shifts from 315MHz-915MHz, supports preset OOK and FSK modulations, supports multiple protocols, and brute force  
 - Support for infrared TX and RX, receiver functions, signal decoding, signal library, and infrared remote control, universal infrared remote  
 - Support for internal storage Little FS and SD card, file/data transfer from Desktop/Phone
--ESP Flasher UART support, allows flashing by connecting the ESP32 Board UART pins to the hardware UART pins, transferring bin files from your phone/desktop to Little FS/SD card storage.  
--Device telemetry, including estimated internal temperature and CPU load, BLE speed, and built-in RGB status light.  
+-ESP Flasher UART support, allows flashing by connecting the ESP32 Board UART pins to the hardware UART pins, transferring bin files from your phone/desktop to Little FS/SD card storage.
+-Device telemetry, including estimated internal temperature and CPU load, BLE speed, and built-in RGB status light.
 -Experimental radio transmission and captive-portal module. Use this feature only in a safe, isolated test environment; never request or store real user credentials.  
 
 BLE observations are not proof of device identity or anyone's location. Signal strength is not an accurate measure of distance. Treat collected data as sensitive information and only keep what’s needed for official tests.

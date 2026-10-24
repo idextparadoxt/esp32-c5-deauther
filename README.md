@@ -190,7 +190,7 @@ signing key. Device-specific helper scripts are in [`garmin/`](garmin/).
 ## Credits and License
 
 The foundation of this project started from [AnvilBrain/esp32-c5-dualband-deauther](https://github.com/AnvilBrain/esp32-c5-dualband-deauther).
-This project also ports features from the Unleashed Flipper Zero Firmware (https://github.com/DarkFlippers/unleashed-firmware) such as the universal infrared remote and features like subGHz along with its protocols that were ported to work on the ESP32-C5 with ESP-IDF 5.5.1, Further development details are noted in [`NOTICE`](NOTICE).
+This project also ports features from the Unleashed Flipper Zero Firmware https://github.com/DarkFlippers/unleashed-firmware such as the universal infrared remote and features like subGHz along with its protocols that were ported to work on the ESP32-C5 with ESP-IDF 5.5.1, Further development details are noted in [`NOTICE`](NOTICE).
 
 ## Contributions
 
